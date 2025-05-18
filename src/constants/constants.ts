@@ -1,0 +1,11 @@
+export const DRAFT_LOCAL_NAME="DRAFT_ARRAY";
+export const USERS="USERS_LIST";
+export const AUTH_TOKEN="VUE_TOKEN";
+export const LOGGED_USER_ID="LOGGED_USER_ID";
+export const PASSWORD_ERROR="Password does not match!"
+export const FIELD_ERROR="Kindly fill all inputs!";
+export const SUCCESS_MESSAGE="Successfully Registered User!";
+export const EXISTING_USER="User already registered!";
+export const WRONG_CREDENTIAL="Incorrect credential!";
+export const AI_URL=import.meta.env.VITE_API_URL;
+export const AI_KEY=import.meta.env.VITE_API_KEY;
